@@ -1,0 +1,6 @@
+﻿  Methods.cpp
+D:\Develop\Repositories\OOP5\OOP5\class_ini.h(117,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+D:\Develop\Repositories\OOP5\OOP5\class_ini.h(117,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  OOP5.vcxproj -> D:\Develop\Repositories\OOP5\x64\Debug\OOP5.exe
